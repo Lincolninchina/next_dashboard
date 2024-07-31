@@ -1,2 +1,2 @@
 # next_dashboard
-dashboard by next.js
+Use Next.js create this dashboard project
